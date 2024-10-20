@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "523118236574",
+    "firebase_url": "https://betavs-c3f49-default-rtdb.firebaseio.com",
+    "project_id": "betavs-c3f49",
+    "storage_bucket": "betavs-c3f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523118236574:android:1b4ee6428779f5c7efbc8f",
+        "android_client_info": {
+          "package_name": "com.mediakliq.betavs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523118236574-7rd4ug2vitt50638vsv8c4appttc3ts2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediakliq.betavs",
+            "certificate_hash": "16b33f0aa90f0d7f8cd68b65726ef3daba34e5b3"
+          }
+        },
+        {
+          "client_id": "523118236574-et5kgih6k2lr3quepmmle6cqf84bopl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediakliq.betavs",
+            "certificate_hash": "e1597073ad217b76bffa40b94e931ca8b225c5c7"
+          }
+        },
+        {
+          "client_id": "523118236574-ftnhc51rnqe3m6voh2dtqb1dbfar2atq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediakliq.betavs",
+            "certificate_hash": "a9f180e51aee22e90b0095ad7448b451c183a1ab"
+          }
+        },
+        {
+          "client_id": "523118236574-gvb3suvuae6et4g5lpvibqefp6teni6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediakliq.betavs",
+            "certificate_hash": "717d83c40bfa0311dfd37ee8ea79c7b641063359"
+          }
+        },
+        {
+          "client_id": "523118236574-hlqigo4er3g3rj5cbmu7tdai1qis2jme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediakliq.betavs",
+            "certificate_hash": "555a8afed0508768a31e9d8d0dfe271841979600"
+          }
+        },
+        {
+          "client_id": "523118236574-di5ngusmlvrgmp4go7ir48rs8i7qinld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0IFuVCLdDLu4TB8LjC8WJ-fOdkC00z70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523118236574-di5ngusmlvrgmp4go7ir48rs8i7qinld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523118236574-a2frm1mu0t505kclhv14136vdks8q27a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediakliq.betavs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
